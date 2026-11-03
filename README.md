@@ -1,16 +1,21 @@
-## Hi there 👋
+ My Projects
 
-<!--
-**santhoshreddy8711-ui/santhoshreddy8711-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Smart AI Interview Training and Feedback System
 
-Here are some ideas to get you started:
+An AI-powered interview preparation system designed to help candidates practise interviews and improve their communication and interview performance through feedback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus: Artificial Intelligence | Interview Preparation | AI Feedback
+
+2. Root Cause Detection in Microservices Using Log Analysis
+
+A Python-based system that analyzes application logs to identify failures in microservice environments.
+
+Key Features:
+
+* Analyzes application logs.
+* Detects server errors and abnormal response times.
+* Identifies the service responsible for failures.
+* Tracks request flow across multiple services.
+* Visualizes results using graphs and dashboards.
+
+Technologies: Python | Log Analysis | Data Visualization | Microservices
